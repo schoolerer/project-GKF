@@ -1,6 +1,7 @@
 # Fall Dash: Classic — Source
 Версия исходного кода: v1.3.0.1
-🎮[Ссылка на игру](https://gkproduction.github.io/games/fall_dash_classic/game.html)
+
+🎮[**Ссылка на игру**](https://gkproduction.github.io/games/fall_dash_classic/game.html)
 ## Требования к полной версии
 - Clickteam Fusion 2.5 версии R295.10 и выше
 - Clickteam Fusion 2.5+
