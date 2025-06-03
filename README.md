@@ -1,9 +1,9 @@
 # Fall Dash Classic — Source
-Версия исходного кода: v1.3.0.2
+Source code version: v1.3.0.2
 
-🎮[**Ссылка на игру**](https://gkproduction.github.io/games/fall_dash_classic/game.html)
-## Требования к полной версии
-- Clickteam Fusion 2.5 версии R295.10 и выше
+🎮[**Game link**](https://gkproduction.github.io/games/fall_dash_classic/game.html)
+## Requirements for the full version
+- Clickteam Fusion 2.5 versions R295.10 and above
 - Clickteam Fusion 2.5+
 - Clickteam Fusion 2.5 Developer
 - Clickteam Fusion 2.5 - Android Exporter
@@ -20,10 +20,10 @@
 - String Parser
 - String Tokenizer
 - Vitalize! plugin
-## Требования к упрощённой версии
+## Requirements for the simplified version
 - Clickteam Fusion 2.5 версии R295.10 и выше
 - Clickteam Fusion 2.5+
 - Font Embed
-## Особенности упрощённой версии
-- Полностью вырезан [модуль API](https://github.com/GKProduction/Collection-of-API-Clickteam-Fusion-2.5) и связанные с ним расширения и функции;
-- Вырезаны расширения, доступные лишь с дополнениями Developer, Android Exporter и HTML5 Exporter.
+## Features of the simplified version
+- Completely cut [module API](https://github.com/GKProduction/Collection-of-API-Clickteam-Fusion-2.5) and related extensions and features;
+- Extensions available only with add-ons have been removed Developer, Android Exporter and HTML5 Exporter.
